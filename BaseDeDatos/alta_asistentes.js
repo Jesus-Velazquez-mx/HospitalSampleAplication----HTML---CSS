@@ -1,3 +1,5 @@
+/* Test comment */
+
 document.addEventListener("DOMContentLoaded", () => {
     const form = document.getElementById('form-asistente');
 
